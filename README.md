@@ -4,15 +4,6 @@
 
 Welcome to Crinox, a free keyless exploit developed by DevXternal! This is a free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the exploit is released in Releases! The API (FluxAPI) is developed by <a href="https://github.com/ItzzExcel">ItzzExcel</a> and is open source.
 
-## Disclaimer
-To whom it may concern,
-
-We hereby declare that we have created an exploit named "Crinox (cX)" solely for development and utility purposes. We explicitly refuse any responsibility for any misuse or illegal activities that may arise from the use of this application. The code is provided "as is", without any warranty, and users assume all risks associated with its use.
-
-We do not condone or support any unethical or malicious activities that may be facilitated using Crinox. It is the responsibility of the users to ensure that they comply with all applicable laws and regulations while using this development tool.
-
-We urge all users to use Crinox only for development and utility purposes and to refrain from using it for any illegal or unethical activities. By using this development tool, users acknowledge and agree to assume all risks associated with its use.
-
 ## Images of Crinox
 
 ![image](https://github.com/NotDevX/Crinox/assets/141998343/81694e8a-3ed1-47f2-94c9-73057af626e6)
@@ -49,3 +40,37 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+# Crinox Exploit Development Tool Disclaimer
+
+**Disclaimer:** The Crinox Exploit Development Tool (hereinafter referred to as "Crinox") is intended for educational and research purposes only. The use of Crinox for any malicious or unauthorized activities is strictly prohibited. The developer of Crinox, DevXternal, assumes no liability for any misuse, damage, or illegal activity caused by the software.
+
+## Usage Agreement
+
+By using Crinox, you agree to the following terms and conditions:
+
+1. Crinox is provided "as is," without any warranties or guarantees of any kind. The developer makes no representations or warranties, either express or implied, regarding the software's usability, accuracy, reliability, or fitness for a particular purpose.
+
+2. You acknowledge that the use of Crinox for any unauthorized or malicious activities, including but not limited to unauthorized access, data breaches, or system compromise, is strictly prohibited and may violate applicable laws.
+
+3. You agree not to distribute, modify, reverse engineer, or attempt to derive the source code of Crinox. Crinox is not open source software, and unauthorized distribution or modification may lead to legal consequences.
+
+4. The developer of Crinox is not responsible for any damage, loss of data, legal issues, or other consequences resulting from the use or misuse of the software.
+
+5. You are solely responsible for ensuring compliance with all applicable laws, regulations, and ethical standards when using Crinox.
+
+## Ethical Use
+
+Crinox should only be used for ethical and legitimate purposes, such as security research, vulnerability testing, and educational purposes. Any activities that violate laws or ethical standards are strictly prohibited.
+
+## Legal Notice
+
+The use of Crinox for any illegal or unauthorized activities is a violation of the terms mentioned in this disclaimer and may also result in legal action.
+
+## Contact
+
+If you have any questions, concerns, or feedback regarding Crinox or this disclaimer, please contact the developer at [devxternal@gmail.com](mailto:devxternal@gmail.com).
+
+By using Crinox, you acknowledge that you have read, understood, and agreed to the terms and conditions of this disclaimer.
+
+Last updated: 2023
