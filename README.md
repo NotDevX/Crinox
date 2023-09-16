@@ -1,6 +1,6 @@
 # Crinox Rebooted (cX)
 ![Static Badge](https://img.shields.io/badge/Version%202.8-purple)
-![Static Badge](https://img.shields.io/badge/Status-Working-green)
+![Static Badge](https://img.shields.io/badge/Status-UWP%20HYPERION%20OUT-red)
 
 Welcome to Crinox, a free keyless exploit developed by DevXternal! This is a free exploit for UWP roblox, this repository only holds the PatchCheck and UpdateCheck, the exploit is released in Releases! The API (FluxAPI) is developed by <a href="https://github.com/ItzzExcel">ItzzExcel</a> and is open source.
 
